@@ -1,0 +1,5 @@
+---
+tags:
+  - studying
+  - photography
+---
