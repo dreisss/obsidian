@@ -8,4 +8,3 @@ tags:
 *main:* \[1] Lógica Matemática - Rogério Augusto dos Santos Fajardo
 *support:*
 - \[2] ...
-
