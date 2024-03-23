@@ -1,7 +1,0 @@
----
-tags:
-  - studying
-  - math
-  - logic
----
-
